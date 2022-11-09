@@ -1,0 +1,35 @@
+body{
+    background-color: lightgreen;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    width: 70%;
+    margin: auto;
+}
+
+#inspirationalQuote {
+    color: white;
+    text-align: left;
+    margin-top: 64px;
+    font-size: 32px;
+}
+
+#author {
+    color: white;
+    text-align: right;
+    margin-top: 64px;
+    font-size: 32px;
+}
+
+#buttonContainer{
+    width: fit-content;
+    margin: auto;
+}
+
+#quoteButton{
+    padding: 10px;
+    font-size: 16px;
+    background: green;
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
